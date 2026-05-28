@@ -1,0 +1,26 @@
+.lmj-plant-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 100px; 
+    padding: 32px;
+    list-style-type: none;
+}
+
+.lmj-plant-wrapper {
+    position: relative;
+    margin: 10px;
+}
+
+.lmj-sales {
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    background-color: #31b572;
+    color: white;
+    padding: 5px 12px;
+    border-radius: 12px;
+    font-size: 14px;
+    font-weight: bold;
+    z-index: 10;
+}
