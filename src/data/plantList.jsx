@@ -33,7 +33,7 @@ const plantList = [
     category: 'exterieur',
     id: '4kk',
     isSpecialOffer: true,
-    water: 1,
+    water: 3,
     light: 3,
     cover: monsteraCover
   },
@@ -42,8 +42,8 @@ const plantList = [
     category: 'exterieur',
     id: '5pl',
     isSpecialOffer: false,
-    water: 1,
-    light: 3,
+    water: 2,
+    light: 2,
     cover: monsteraCover
   },
    {
@@ -52,7 +52,7 @@ const plantList = [
     id: '5pl',
     isSpecialOffer: true,
     water: 1,
-    light: 3,
+    light: 1,
     cover: monsteraCover
   },
    {
@@ -61,7 +61,7 @@ const plantList = [
     id: '5pl',
     isSpecialOffer: false,
     water: 1,
-    light: 3,
+    light: 4,
     cover: monsteraCover
   },
 ]
